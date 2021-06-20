@@ -10,3 +10,15 @@ const textObject = RichText.New(
 			undefined,
 		);
  ```
+# Animate Object
+
+```
+textObject.Animate(true);
+```
+
+# Hide Object
+```
+textObject.Hide();
+```
+
+Please check Defaultio twitter post and check the module for more info!
