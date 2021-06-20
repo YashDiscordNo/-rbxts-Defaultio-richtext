@@ -1,5 +1,5 @@
-# -rbxts-defaultiorichtext
-Rich text typings for Defulatio Rich Text Markup
+# -rbxts-Defaultiorichtext
+Rich text typings for Defaultio Rich Text Markup
 
 # Create Object
 ```
